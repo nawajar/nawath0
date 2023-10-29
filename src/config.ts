@@ -1,12 +1,12 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://nawath0.live/", // replace this with your deployed domain
   author: "nawa",
   desc: "What i cannot create, I do not understand. - Richard Feynman",
   title: "NAWATH0",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerPage: 7,
 };
 
